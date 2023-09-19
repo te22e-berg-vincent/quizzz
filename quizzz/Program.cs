@@ -61,6 +61,23 @@ Console.WriteLine("you got the final score of");
 Console.WriteLine(sum);
 
 
+if (sum == 0)
+{
+Console.WriteLine("nice try");
+}
+else if (sum == 1)
+{
+    Console.WriteLine("Good job");
+}
+else if (sum == 2 )
+Console.WriteLine("So close, well done on the quiz");
+
+else if (sum == 3)
+{
+Console.WriteLine("AMAZING. you got all of them right");
+
+}
+
 
 
 
