@@ -10,7 +10,7 @@ svar = svar.ToLower();
 
 if (svar == "c")
 {
-Console.WriteLine("Correct");
+Console.WriteLine("That's correct!");
 sum++;
 }
 
@@ -22,11 +22,28 @@ else if (svar != "c" )
     Console.WriteLine("Incorrect");
 }
 
-Console.ReadLine();
-Console.WriteLine("1) In what region i Japan");
-Console.WriteLine("a) Europe b Africa c Asia");
 
-
-
+Console.WriteLine("When was the first car invented");
+Console.WriteLine("a) 1896. b) 1923. c1904");
 svar = Console.ReadLine();
+svar = svar.ToLower();
 
+if (svar == "a")
+{
+Console.WriteLine("That's right!");
+sum++;
+}
+
+else if (svar != "a")
+{
+   Console.WriteLine("Sorry not quite");
+}
+
+
+
+
+
+
+
+
+Console.ReadLine();
