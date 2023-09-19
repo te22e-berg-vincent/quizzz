@@ -1,0 +1,14 @@
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\bin\Debug\net7.0\quizzz.exe
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\bin\Debug\net7.0\quizzz.deps.json
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\bin\Debug\net7.0\quizzz.runtimeconfig.json
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\bin\Debug\net7.0\quizzz.dll
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\bin\Debug\net7.0\quizzz.pdb
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.AssemblyInfoInputs.cache
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.AssemblyInfo.cs
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.csproj.CoreCompileInputs.cache
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.dll
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\refint\quizzz.dll
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.pdb
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\quizzz.genruntimeconfig.cache
+c:\Users\vincent.berg2\Documents\Programerings projekt\quizzz\quizzz\obj\Debug\net7.0\ref\quizzz.dll
